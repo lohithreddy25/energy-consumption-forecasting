@@ -1,16 +1,16 @@
-# ⚡ Energy Consumption Forecasting
+# Energy Consumption Forecasting
 
 This project focuses on predicting future energy consumption using supervised machine learning techniques combined with time series analysis. The goal is to model energy usage trends and generate accurate forecasts using four different algorithms: **Support Vector Machine (SVM)**, **Random Forest**, **Linear Regression**, and **Decision Tree Regression**.
 
 ---
 
-## 📈 Objective
+## Objective
 
 To analyze and forecast future energy consumption based on historical data using various regression models and time series techniques. The project helps in identifying usage patterns and making data-driven predictions for efficient energy planning and resource optimization.
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **Python 3.x**
 - **Pandas**, **NumPy** for data handling
@@ -20,7 +20,7 @@ To analyze and forecast future energy consumption based on historical data using
 
 ---
 
-## 🧪 Machine Learning Models Used
+## Machine Learning Models Used
 
 | Model                 | Description |
 |----------------------|-------------|
@@ -33,7 +33,7 @@ Each model was trained and evaluated independently on the same preprocessed data
 
 ---
 
-## 📊 Time Series Analysis
+## Time Series Analysis
 
 - Used lag features, rolling statistics, and time-based decomposition
 - Analyzed seasonality, trend, and residuals
@@ -41,7 +41,7 @@ Each model was trained and evaluated independently on the same preprocessed data
 
 ---
 
-## 🔍 Features Considered
+## Features Considered
 
 - Timestamp (converted to datetime)
 - Hourly/daily energy consumption
@@ -51,7 +51,7 @@ Each model was trained and evaluated independently on the same preprocessed data
 
 ---
 
-## 🧪 Evaluation Metrics
+## Evaluation Metrics
 
 | Metric           | Description                            |
 |------------------|----------------------------------------|
@@ -63,7 +63,7 @@ Models were evaluated using both **train-test split** and **cross-validation**.
 
 ---
 
-## 📦 Project Workflow
+## Project Workflow
 
 1. **Data Preprocessing**:
    - Handled missing values and outliers
